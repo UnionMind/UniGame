@@ -1,0 +1,12 @@
+{
+  "name": "com.unigame.module",
+  "displayName": "UniGame Module System",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "keywords": [
+    "UniGame",
+    "Module",
+    "System"
+  ]
+}
